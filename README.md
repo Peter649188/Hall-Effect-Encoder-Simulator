@@ -1,0 +1,1 @@
+This is my PicMicro assembler code for my invention "Hall Effect / Encoder Simulator". It simulates servo motor feedback. It is built around the PIC16F877A uController from Microchip. You can see my schematic drawings and explanation of the circuit at my Youtube channel "PeePaw McDonald.
